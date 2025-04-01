@@ -11,6 +11,11 @@ import java.util.Scanner;
 
 n = 5
 
+*				*
+*				*
+*		*		*
+*	*		*	*
+*				*
 
  */
 
